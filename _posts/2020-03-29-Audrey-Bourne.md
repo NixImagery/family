@@ -8,8 +8,8 @@ categories:
 # - Education
 # - AI and Technology
 # - Photography
-tags:
-    - example
+# tags:
+#     - example
 ---
 {% newthought "Audrey Bourne" %}{% marginnote "AB1" "She passed away on 20th March 2020 at the Princess Alexandra Hospital, Harlow." %} almost made it to her 90th birthday which would have been on the 7th June.
 <!--more-->
@@ -19,7 +19,7 @@ Audrey was born in Hitchin on the 7th June 1930 to Norah and George Bourne of Le
 
 Audrey was paralysed in her late twenties and was flown to the US military hospital at Wiesbaden, where she was told she would never walk again. In time, she defied this and many other medical pronouncements in her life, in which she lost an eye and a kidney and suffered multiple sclerosis.
 
-During her life, she lived mostly in Letchworth but traveled well. She wrote a number of novels and published a book of poetry. Audrey had a keen intellect which she applied to crossword puzzles and an interest in antiques and the writings of Samuel Pepys and John Evelyn.
+During her life, she lived mostly in Letchworth but traveled well. She wrote a number of novels and published a book of poetry. Audrey had a keen intellect and read extensively, most especially the diaries of Samuel Pepys and John Evelyn.
 
 ## Notes
 
