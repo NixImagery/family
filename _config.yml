@@ -1,0 +1,16 @@
+baseurl: /family
+title: Tales of the family
+subtitle: Bourne's rebels and other stories
+author: Nick Hood
+simple_search: http://google.com/search
+description: Tales of the family - Bourne's rebels and other stories
+googlecode: UA-29333042-9
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+timezone: Europe/London
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'LICENSE', 'README.md']
+paginate: 6
+paginate_path: "/articles/page:num/"
+permalink: /:year/:month/:day/:title:output_ext
+plugins: [jekyll-paginate]

@@ -1,0 +1,19 @@
+---
+layout: full-width
+title: Categories
+# nav_exclude: true
+# Note that this index page uses a full-width layout!
+---
+
+  <h2 class="content-listing-header">Articles by category</h2>
+  <ul class="content-listing ">
+        {% for category in site.categories %}
+        <p>{{ category[0] }}</p>
+        <ul>
+          {% for post in category[1] %}
+            <li class="listing"><a href="{{ post.url  | prepend: site.baseurl }}">{{ post.title }}</a> <span class="smaller">{{ post.date | date: "%B %Y" }}</span></li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+
+  </ul>

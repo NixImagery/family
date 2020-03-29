@@ -1,0 +1,42 @@
+---
+layout: full-width
+title: Articles
+# nav_exclude: true
+# Note that this index page uses a full-width layout!
+---
+
+  <!-- <h1 class="content-listing-header">Articles</h1> -->
+  <ul class="content-listing ">
+  <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}      
+        <li class="listing">
+          <hr class="slender">
+          <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}
+          {% if post.categories %} in {% endif %}
+          {% for category in post.categories %}{% unless category == post.categories[0] %}, {% endunless %}
+          {{category}}
+          {% endfor %}
+          </span><br/>
+          <div>{{ post.excerpt }}</div> 
+        </li>
+    {% endfor %}
+
+  <!-- Pagination links -->
+    {% if paginator.total_pages > 1 %}
+      <li class="listing">
+      <hr class="slender">
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">&lt;&lt;&nbsp;</a>
+        {% endif %}
+        <span class="page_number ">
+          page {{ paginator.page }} of {{ paginator.total_pages }}
+        </span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">&nbsp;&gt;&gt;</a>
+        {% endif %}
+      </div>
+      </li>
+    {% endif %}
+  </ul>

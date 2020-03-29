@@ -1,2 +1,2 @@
-# family
-Tales of my family
+# Tales of my family
+I set this site up to share stories from my family: some of them are about me, of course, but there are others here. It's not really a family tree kind of thing, although there will be information from various family genealogists and contributors.
