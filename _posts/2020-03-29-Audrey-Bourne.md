@@ -11,7 +11,7 @@ categories:
 # tags:
 #     - example
 ---
-{% newthought "Audrey Bourne" %} almost made it to her 90th birthday which would have been on the 7th June. She passed away on 20th March 2020 at the Princess Alexandra Hospital, Harlow.
+{% marginfigure 'ajb-89' 'assets/img/Audrey-89.jpg' 'Audrey, at home, July 2019, aged 89.'  %}{% newthought "Audrey Bourne" %} almost made it to her 90th birthday which would have been on the 7th June, 2020. She passed away on 20th March 2020 at the Princess Alexandra Hospital, Harlow.
 <!--more-->
 
 ## Synopsis
@@ -19,7 +19,11 @@ Audrey was born in Hitchin on the 7th June 1930 to Norah and George Bourne of Le
 
 Audrey was paralysed in her late twenties and was flown to the US military hospital at Wiesbaden, where she was told she would never walk again. In time, she defied this and many other medical pronouncements in her life, in which she lost an eye and a kidney and suffered multiple sclerosis.
 
-During her life, she lived mostly in Letchworth but traveled well. She wrote a number of novels and published a book of poetry. Audrey had a keen intellect and read extensively, most especially the diaries of Samuel Pepys and John Evelyn.
+During her life, she lived mostly in Letchworth but traveled well, developing a good list of favourite places such as York and especially the Thames Valley aroud Henley. She wrote a number of novels and published a book of poetry. Audrey had a keen intellect and read extensively, most especially the diaries of Samuel Pepys and John Evelyn.
+
+Music followed her all of her life: she sang for pennies from her grandmother as a little girl, performed in "The Wotsnames" and sang from the roof of Letchworth fire station on VE day. With her friend, Brian Satterthwaite, she recorded a few tracks of favourite songs in a local studio.
+
+<p>Here is one of those: "Till we meet again". <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/787534222&color=%23444034&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
 
 ## Notes
 
