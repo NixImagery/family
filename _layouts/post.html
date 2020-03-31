@@ -2,11 +2,10 @@
 layout: default
 ---
 <h1>{{ page.title}}</h1>
-<p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}<span class="smaller">
-  {% if page.categories %} in {% endif %}
-  {% for category in page.categories %}{% unless category == page.categories[0] %}, {% endunless %}
-  {{ category }}
-  {% endfor %}
+<p class="subtitle">{{ page.date | date: "%d %B %Y" }}<span class="smaller">
+  {% if post.author %} by {{post.author}}
+  {% elsif site.author %} by {{site.author}}
+  {% endif %} 
 </span></p>
 
 {{ content }}

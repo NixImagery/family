@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Articles
+title: Family Tales
 # nav_exclude: true
 # Note that this index page uses a full-width layout!
 ---
@@ -12,11 +12,10 @@ title: Articles
         <li class="listing">
           <hr class="slender">
           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
-          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}
-          {% if post.categories %} in {% endif %}
-          {% for category in post.categories %}{% unless category == post.categories[0] %}, {% endunless %}
-          {{category}}
-          {% endfor %}
+          <br><span class="smaller">{{ post.date | date: "%d %B %Y" }}
+          {% if post.author %} by {{post.author}}
+          {% elsif site.author %} by {{site.author}}
+          {% endif %} 
           </span><br/>
           <div>{{ post.excerpt }}</div> 
         </li>
