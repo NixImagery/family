@@ -5,11 +5,6 @@ title:  Audrey Bourne
 # published: no               # comment this line out to publish
 categories: 
     - Bourne
-# - Education
-# - AI and Technology
-# - Photography
-# tags:
-#     - example
 ---
 {% marginfigure 'ajb-89' 'assets/img/Audrey-89.jpg' 'Audrey, at home, July 2019, aged 89.'  %}{% newthought "Audrey Bourne" %} almost made it to her 90th birthday which would have been on the 7th June, 2020. She passed away on 20th March 2020 at the Princess Alexandra Hospital, Harlow.
 <!--more-->
