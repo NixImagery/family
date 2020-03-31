@@ -3,10 +3,10 @@
   <channel>
     <title>Tales of the family</title>
     <description>Tales of the family - Bourne's rebels and other stories</description>
-    <link>/family/</link>
-    <atom:link href="/family/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Mar 2020 19:33:09 +0100</pubDate>
-    <lastBuildDate>Tue, 31 Mar 2020 19:33:09 +0100</lastBuildDate>
+    <link>https://cullaloe.com/family/</link>
+    <atom:link href="https://cullaloe.com/family/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 Mar 2020 21:11:16 +0100</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2020 21:11:16 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -49,8 +49,8 @@
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
-        <link>/family/2020/03/29/Audrey-Bourne.html</link>
-        <guid isPermaLink="true">/family/2020/03/29/Audrey-Bourne.html</guid>
+        <link>https://cullaloe.com/family/2020/03/29/Audrey-Bourne.html</link>
+        <guid isPermaLink="true">https://cullaloe.com/family/2020/03/29/Audrey-Bourne.html</guid>
         
         
         <category>Bourne</category>
