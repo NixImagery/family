@@ -111,6 +111,14 @@ h3 { font-style: italic;
 
 // ET says a need for more than 3 levels of headings is the sign of a diseased mind
 
+.columnar { // Used on the category page to group family names
+  columns:1;
+}
+
+.fw { // kluge to revert UL to full width in columnar layout above
+  width: 100%;
+}
+
 p .subtitle { font-style: italic;
              margin-top: 2.1777777777777778rem;
              margin-bottom: 2.1777777777777778rem;
@@ -152,7 +160,7 @@ h1 code, h2 code, h3 code { font-size: 0.80em; } //left in for no real reason
 /*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
 
 table, table.booktabs { width: auto;  //making booktabs style tables the unstyled default in case someone uses Markdown styling
-                 margin: 0 auto;
+                 margin: 10px 0px 0px;
                  border-spacing: 0px;
                  border-top: 2px solid $border-color;
                  border-bottom: 2px solid $border-color; }

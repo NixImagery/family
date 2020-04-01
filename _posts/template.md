@@ -2,9 +2,13 @@
 layout: post
 title:  Joe Bloggs
 # date:   2020-01-06 16:00
-# published: no               # comment this line out to publish
+published: no
 categories: 
   - Surname
+tags:
+  - Surname
+  - living
+  - location
 ---
 {% newthought "Introductory words" %}{% marginnote "notename" "Margin note" %} to the first paragraph.
 <!--more-->
