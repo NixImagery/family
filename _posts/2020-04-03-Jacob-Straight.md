@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Jacob Straight
-# date:   2020-02-10 16:00
 thumb: Jacob-thumb.jpg
 # published: no
 categories: 
