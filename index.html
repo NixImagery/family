@@ -17,7 +17,7 @@ title: Tales
         {% elsif site.author %} by {{site.author}}
         {% endif %} 
         </span><br/>
-        <div>{{ post.excerpt }}</div> 
+        <div>{% if post.thumb %}<img src="assets/img/{{ post.thumb }} " height="100em" style="float:left;padding: 0 10px 0 0;" />{% endif %} {{ post.excerpt }}</div> 
       </li>
   {% endfor %}
 

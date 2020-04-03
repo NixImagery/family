@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Audrey Bourne
+thumb: Audrey-thumb.jpg
 # date:   2020-01-06 16:00
 # published: no
 categories: 
