@@ -8,6 +8,7 @@ categories:
   - Straight
 tags:
   - Straight
+  - Dragoo
   # - living
   - WV
 ---
