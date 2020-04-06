@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Jacob Straight
+date: 6th April 2020
 thumb: Jacob-thumb.jpg
 # published: no
 categories: 
@@ -25,7 +26,7 @@ Mrs. Dragoo in the story was the victim's mother-in-law. Her son in the story wa
 > "When Jacob was about four years old, his mother Elizabeth was scalped and killed in an Indian raid in 1786, by about 9 Shawnee Indians, and his brother William ("Indian Billy") Dragoo was also
 captured in this Indian raid, and he was then raised by the Indians. Elizabeth's brother Jacob Straight, and a neighbor Nicholas Wood, were also killed in this raid. (Jacob's mother Elizabeth was captured, and then scalped and killed later, at another location). Jacob's brother William ("Indian Billy") Dragoo later married an Indian squaw and became a "white" Chief of an Indian tribe."
 
-There is a [historical marker](https://www.hmdb.org/m.asp?m=75089) of the 1786 attack, in Marion County at the side of US 250.
+There is more of the story [here](https://www.wikitree.com/wiki/Straight-233), and a [historical marker](https://www.hmdb.org/m.asp?m=75089) of the 1786 attack, in Marion County at the side of US 250. 
 
 ## Notes
 
