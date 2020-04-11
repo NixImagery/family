@@ -25,6 +25,8 @@ Music followed her all of her life: she sang for pennies from her grandmother as
 
 <p>Here is one of those: "Till we meet again". <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/787534222&color=%23444034&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
 
+<p>Another one, a favourite of her mother's, "We'll gather lilacs", was played at her funeral on 14th April 2020 in Luton. <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/787592308&color=%23746c64&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
+
 ## Notes
 
 Name|DoB|PoB|DoD|PoD
