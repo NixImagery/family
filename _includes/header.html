@@ -2,7 +2,8 @@
 <header>
     <nav class="group">
 	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/anarchysm.gif" alt="Anarchy"></a><h1>{{ site.title }}</h1>
-	{% for node in site.pages %}
+	{% assign sorted_pages = site.pages | sort:"order" %}
+	{% for node in sorted_pages %}
 		{% unless node.nav_exclude or node.url contains 'page' %}
 			{% if page.url == node.url %}
 			<a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>

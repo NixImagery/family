@@ -32,7 +32,7 @@ layout: default
             {% if hasSimilar.size == 0 %}
               <span class="newthought"><h3>Related Posts:</h3>
             {% endif %}
-              <br/><a href="{{ post.url| prepend: site.baseurl }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}
+              <br/><a href="{{ post.url| prepend: site.baseurl }}">{{ post.title }}</a> - {{ post.date | date: "%B %Y" }}
             {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
             {% assign postHasSimilar = true %}
           {% endif %}

@@ -1,6 +1,7 @@
 ---
 layout: full-width
 title: The Family
+order: 3
 # nav_exclude: true
 # Note that this index page uses a full-width layout!
 ---
@@ -14,7 +15,7 @@ title: The Family
         <p>{{ category[0] }}</p>
         <ul class="fw" >
           {% for post in category[1] %}
-            <li class="listing"><a href="{{ post.url  | prepend: site.baseurl }}">{{ post.title }}</a> <span class="smaller">{{ post.date | date: "%B %Y" }}</span></li>
+            <li class="listing"><a href="{{ post.url  | prepend: site.baseurl }}">{{ post.title }}</a>{% if post.birth-date %}<span class="smaller"> b. {{ post.birth-date | date: "%B %Y" }}{% if post.birth-place %}, {{ post.birth-place }}{% endif %}{% endif %}</li>
           {% endfor %}
         </ul>
       {% endfor %}

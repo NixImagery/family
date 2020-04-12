@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+order: 2
 ---
 
 {% newthought "I set this site up to share stories" %} from my family, starting with [my mother](2020/03/29/Audrey-Bourne.html). It's not really a family tree kind of thing, although there will be information from various family genealogists and contributors.

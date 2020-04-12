@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  Norah Brennan
+date: 12th April 2020
+birth-date: 13 June 1903
+birth-place: Cleethorpes, Lincolnshire
 # thumb: Audrey-thumb.jpg
-date:   1885-08-13 16:00
 # published: no
 categories: 
     - Brennan

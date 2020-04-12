@@ -3,6 +3,8 @@ layout: post
 title:  Jacob Straight
 date: 6th April 2020
 thumb: Jacob-thumb.jpg
+birth-date: 23rd June 1741
+birth-place: Richmond County, Staten Island
 # published: no
 categories: 
   - Straight

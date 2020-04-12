@@ -2,6 +2,8 @@
 layout: post
 title:  Harry S. Hood
 thumb: Harry-thumb.jpg
+birth-date: 8th April 1903
+birth-place: West Virginia
 # date:   2020-01-09 16:00
 # published: no
 categories: 

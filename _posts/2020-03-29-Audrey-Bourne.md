@@ -2,6 +2,8 @@
 layout: post
 title:  Audrey Bourne
 thumb: Audrey-thumb.jpg
+birth-date: 7 June 1930
+birth-place: Hitchin?
 # date:   2020-01-06 16:00
 # published: no
 categories: 
