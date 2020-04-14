@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Joe Bloggs
-# thumb: assets/img/xxx-thumb.jpg
+# thumb: xxx-thumb.jpg
 # date:   2020-01-06 16:00
 # birth-date: 23rd June 1741
 # birth-place: Richmond County, Staten Island
