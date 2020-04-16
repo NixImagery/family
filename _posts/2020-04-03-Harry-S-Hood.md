@@ -4,7 +4,7 @@ title:  Harry S. Hood
 thumb: Harry-thumb.jpg
 birth-date: 8th April 1903
 birth-place: West Virginia
-# date:   2020-01-09 16:00
+date:   2020-04-03
 # published: no
 categories: 
   - Hood
@@ -19,7 +19,11 @@ tags:
 <!--more-->
 
 ## Family
-Harry Straight Hood was born on 8th April 1903 in West Virginia and died in Dade County, Florida, at the age of 86. He was married to Mary Lucille Long and had three children: Charles (Jack), Richard (Ric) and Elizabeth (Betty-Ann). 
+Harry Straight Hood was born on 8th April 1903 in West Virginia and died in Dade County, Florida, at the age of 86. He was married to Mary Lucille Long and had four children: Elizabeth (Betty-Ann), Eleanor, Charles (Jack), and Richard (Ric). 
+
+The family lived in Harrison County, West Virginia, where the 1930 census record shows that Harry worked as a motor mechanic. A decade later, the county census has Lucille as the head of household and the four children living with her. Her sister, Agnes Hood (sic.) living with the family in 1930, is also absent from the 1940 census record for the household.
+
+<!-- His wife was killed in a fire that broke out in a Pan-Am aircraft - she had escaped, but returned to rescue her friend who was still inside the fuselage. Harry married again, Irma. -->
 
 Harry was at one time a Dade County councilman - I was told once that there was at one time a Harry S. Hood building in Hialeah, standing in his honour. 
 

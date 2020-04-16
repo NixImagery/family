@@ -10,14 +10,20 @@ order: 3
     <h2 class="content-listing-header">The Family</h2>
     <p>"The Family". It's hard to define what that means, for we are <em>all</em> family to some extent or other. For the purposes of this site, I'm going to start with an egocentric perspective and build from there: not quite in concentric circles, because information (in the tales) isn't organised and presented that way. If you are family and have tales to share, especially if you have images to go with them, please <a href="https://cullaloe.net/contact/">get in touch</a>.</p>
     <p>Tales about family members are categorised by surname at birth, unless there is some good reason not to.</p>
-    <div class="columnar">
-    {% for category in site.categories %}
-        <p>{{ category[0] }}</p>
-        <ul class="fw" >
-          {% for post in category[1] %}
-            <li class="listing"><a href="{{ post.url  | prepend: site.baseurl }}">{{ post.title }}</a>{% if post.birth-date %}<span class="smaller"> b. {{ post.birth-date | date: "%B %Y" }}{% if post.birth-place %}, {{ post.birth-place }}{% endif %}{% endif %}</li>
-          {% endfor %}
-        </ul>
+
+    {% comment %}
+    # adapted from https://gist.github.com/Phlow/57eb457898e4ac4c4a20:
+    #  Change date order by adding '| reversed'
+    #  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
+    {% endcomment %}
+    {% assign sorted_cats = site.categories | sort %}
+    {% for category in sorted_cats %}
+    {% assign sorted_posts = category[1] | reversed %}
+    <p>{{category[0]}}</p>
+    <ul class="fw" >
+      {% for post in sorted_posts %}
+      <li class="listing"><a href="{{ post.url  | prepend: site.baseurl }}">{{ post.title }}</a>{% if post.birth-date %}<span class="smaller"> b. {{ post.birth-date | date: "%B %Y" }}{% if post.birth-place %}, {{ post.birth-place }}{% endif %}{% endif %}</li>
       {% endfor %}
-    </div>
+    </ul>
+    {% endfor %}
   </ul>
