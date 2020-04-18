@@ -15,7 +15,7 @@ tags:
   - Letchworth
   - Cleethorpes
 ---
-{% marginfigure 'gn1' 'assets/img/George-Norah.gif' 'George Bourne and granddaughter Audrey, Common View, Letchworth, around 1933.'  %}{% newthought "Norah Evelyn Brennan" %} was born on 13th June 1903 in Cleethorpes, Lincolnshire.
+{% marginfigure 'gn1' 'assets/img/George-Norah.gif' 'George Bourne and granddaughter Audrey, Common View, Letchworth, around 1933.'  %}{% newthought "Norah Evelyn Brennan" %} was born on 13th June 1903 in Cleethorpes, Lincolnshire, the eldest daughter to William and Sarah.
 
 <!--more-->
 
@@ -26,4 +26,4 @@ tags:
 
 Name|DoB|PoB|DoD|PoD
 :---|:-:|:--|:-:|:--
-George Alfred BOURNE|13 August 1885| |27 February 1954|
+Norah Evelyn BRENNAN|13th June 1903|Cleethorpes|28th May 1979|Stevenage

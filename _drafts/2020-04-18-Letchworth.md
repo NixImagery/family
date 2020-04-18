@@ -38,7 +38,7 @@ Rose was the third named thus in the family group, after her mother and aunt. Sh
 He had a number of business interests including a partnership with the Whiteheads, the Espresso Bar café on Station Road, Letchworth, and previously a transport business in the war. He drove the supply line throughout the London Blitz, for which the reward was the forced nationalisation by a Labour government of the business. He wept when they drove his lorries away.
 
 ### Florence
-Florrie married Bert Downs and lived on the corner of Archers Way and Haselfoot. I remember they kept corgis. Their daughter, Judith, married Derek Adams and they still live in Letchworth.
+{% marginfigure 'downs1' 'assets/img/FlorenceBertDownsWeddingClipping.jpg' "Bert and Florrie's wedding in the local paper. It was Rosina's husband who gave her away."  %}Florrie married Bert Downs and lived on the corner of Archers Way and Haselfoot. I remember they kept corgis. Their daughter, Judith, married Derek Adams and they still live in Letchworth. The family had a long-standing relationship with the Spirella, the local factory that made everything from prams to parachutes, which is perhaps why their wedding warranted the strapline of, "Wedding of Spirella employee." My mother, Audrey Bourne, is mentioned in the clip as one of the bridesmaids.
 
 ### Albert
 Albert was George Albert's youngest son.
