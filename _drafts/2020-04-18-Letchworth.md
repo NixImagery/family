@@ -11,7 +11,7 @@ categories:
 tags:
   - Letchworth
 ---
-{% newthought "The Bourne family" %} are what was once called "Old Letchworth", having lived in the town almost since it was founded as the First Garden City in 1903.
+{% newthought "The Bourne family" %} are what was once called "Old Letchworth", having lived in the town almost since it was founded as the First Garden City in 1903. Here is a synopsis of the how the Bourne family came to be called that.
 <!--more-->
 
 <!-- * Table of Contents
