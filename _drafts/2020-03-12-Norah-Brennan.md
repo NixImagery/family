@@ -5,7 +5,7 @@ date: 12th April 2020
 birth-date: 13 June 1903
 birth-place: Cleethorpes, Lincolnshire
 # thumb: Audrey-thumb.jpg
-# published: no
+published: no
 categories: 
     - Brennan
 tags:
