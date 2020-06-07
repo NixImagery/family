@@ -7,7 +7,7 @@ thumb: GABourne-thumb.jpg
 # ======================================
 birth-date: 13 August 1885
 birth-place: West Ham
-published: no
+# published: no
 categories: 
     - Bourne
 tags:
