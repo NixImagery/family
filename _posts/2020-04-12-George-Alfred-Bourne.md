@@ -2,9 +2,12 @@
 layout: post
 title:  George Alfred Bourne
 thumb: GABourne-thumb.jpg
+# ======================================
+# MERGE THIS INTO THE LETCHWORTH BOURNES
+# ======================================
 birth-date: 13 August 1885
 birth-place: West Ham
-# published: no
+published: no
 categories: 
     - Bourne
 tags:
@@ -12,6 +15,7 @@ tags:
   - Evans
 #   - living
   - Letchworth
+
 ---
 {% marginfigure 'ajb-89' 'assets/img/Audrey-Grandfather.jpg' 'George Bourne and granddaughter Audrey, Common View, Letchworth, around 1933.'  %}{% newthought "George Alfred Bourne" %} was born in West Ham in 1885 and was one of the first to settle in the First Garden City of Letchworth after it was founded by Ebenezer Howard in 1903. 
 <!--more-->

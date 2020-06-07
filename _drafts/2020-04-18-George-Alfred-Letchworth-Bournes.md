@@ -1,24 +1,28 @@
 ---
 layout: post
-title:  Letchworth Bournes
-# thumb: xxx-thumb.jpg
-# date:   2020-01-06 16:00
-# birth-date: 23rd June 1741
-# birth-place: Richmond County, Staten Island
+title:  George Alfred Bourne
+thumb: GABourne-thumb.jpg
+date:   2020-06-07 08:00
+birth-date: 13 August 1885
+birth-place: West Ham, Essex
 # published: no
 categories: 
   - Bourne
 tags:
   - Letchworth
 ---
-{% newthought "The Bourne family" %} are what was once called "Old Letchworth", having lived in the town almost since it was founded as the First Garden City in 1903. Here is a synopsis of the how the Bourne family came to be called that.
+{% marginfigure 'ajb-89' 'assets/img/Audrey-Grandfather.jpg' 'George Bourne and granddaughter Audrey, Common View, Letchworth, around 1933.'  %}{% newthought "George Bourne" %} was born in West Ham in 1885 and was one of the first to settle in the First Garden City of Letchworth after it was founded by Ebenezer Howard in 1903.
+
+The Bourne family are what was once called "Old Letchworth", having lived in the town for over a century, from George Bourne's arrival seeking work shortly after it was founded as the First Garden City in 1903.
 <!--more-->
 
 <!-- * Table of Contents
 {:toc} -->
 
-## George Alfred, the first Bourne
+## To Letchworth
 {% marginfigure 'gblorry1' 'assets/img/G-Bourne-lorry.jpg' 'A Bourne venture.'  %}George Bourne is said to have walked from the East End of London - Stratford, Essex more truthfully, perhaps - pushing a barrow of possessions before him. He was quickly involved in the building which took place in Letchworth as the plans for a "Garden City", in which housing and industry were separated for quality of life, unfolded. George brought his wife, Catherine, and their two children, Catherine and Rose, with him. They had three further children, all born in Letchworth: George Frederick, Florence, and Albert. He had a nose for business and ran a number of ventures, never afraid to get his hands dirty.
+
+The Bourne family were entrepreneurial and soon established businesses including produce, grocery, transport and hospitality. George was responsible for a huge amount of the building which took place in Letchworth and his claim to fame was a very beautiful plastered ceiling in an iconic building in the town (the Spirella Building) for which  he was responsible.
 
 {% maincolumn 'assets/img/George-Bourne-pigs.jpg' "George Bourne, with pigs." %}
 
@@ -30,7 +34,7 @@ tags:
 ### Rosina
 Rose was the third named thus in the family group, after her mother and aunt. She married Percy Radford and (I think) lived in Barkway. Their daughter Jean married (?) Arnold and their daughter is my cousin Jacky Joiner (née Arnold).
 
-{% maincolumn 'assets/img/Rose-Percy-Wedding-Letchworth.jpg' "Rose and Percy's wedding, Letchworth, I think, in 1926, before Kate and Jack. My grandfather, G.F. Bourne, (I think) again in the back row, looking a little younger." %}
+{% maincolumn 'assets/img/Rose-Percy-Wedding-Letchworth.jpg' "Rose and Percy's wedding, Letchworth, I think, in 1926, before Kate and Jack. My grandfather, G.F. Bourne, (I think) again in the back row, looking a little younger. George Bourne is again standing behind the bride." %}
 
 ### G. F. Bourne
 {% marginfigure 'gan1' 'assets/img/George-Norah.gif' 'George and Norah'  %}George Frederick Bourne was my grandfather. He married Norah Brennan and lived in Bedford Road, opposite to my old junior school. He loved to drive; his car of choice in his later life was a Triumph Herald. He was crippled by something like Parkinson's disease that eventually bound him to his bed on the ground floor of their home.
