@@ -5,7 +5,7 @@ thumb: GABourne-thumb.jpg
 date:   2020-06-07 08:00
 birth-date: 13 August 1885
 birth-place: West Ham, Essex
-# published: no
+published: no
 categories: 
   - Bourne
 tags:

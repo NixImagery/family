@@ -12,8 +12,9 @@ tags:
   - Bourne
 #   - living
   - Letchworth
+permalink: Audrey
 ---
-{% marginnote 'btw' "Please note that I am adding to this page in the weeks following Audrey's death, as I review family papers and photographs." %}{% newthought "Audrey was born in Letchworth" %} on the 7th June 1930 to Norah and George Bourne. During her life, she lived mostly in Letchworth but traveled well, developing a good list of favourite places such as York and especially the Thames Valley aroud Henley. She wrote a number of novels and published a book of poetry. Audrey had a keen intellect and read extensively, most especially the diaries of Samuel Pepys and John Evelyn.<!--more-->
+{% marginnote 'btw' "Please note that I am adding to this page in the weeks following Audrey's death, as I review family papers and photographs." %}{% newthought "Audrey was born in Letchworth" %} on the 7th June 1930 to Norah and George Bourne. During her life, she lived mostly in Letchworth but traveled well, developing a good list of favourite places such as York and especially the Thames Valley around Henley. She wrote a number of novels and published a book of poetry. Audrey had a keen intellect and read extensively, most especially the diaries of Samuel Pepys and John Evelyn.<!--more-->
 
 ## Early Life
 She went{% marginfigure 'ajb-la' 'assets/img/Audrey-land-army.jpg' 'Audrey in the Land Army, 1948.'  %} to Norton School, becoming Head Girl before leaving at 14 years old to begin working life during the final year of the Second World War at the Hertfordshire Rubber Company. According to [Grace's Guide](https://www.gracesguide.co.uk/Hertfordshire_Rubber_Co), this business made parts for the De Havilland Mosquito as part of the War Effort. At the age of around 18, Audrey served in the Land Army. She told the story of how, having unexpectedly returned to the farmhouse the girls were billeted in, she caught two of them in bed together. When she mentioned this to other girls, she was told, "Don't worry, Audrey, they're Lezzies", to which she replied, "Who's Les?"
