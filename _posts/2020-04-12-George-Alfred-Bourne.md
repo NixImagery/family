@@ -29,6 +29,9 @@ George was the eldest of 6 children of George and Rosina (Chapman) Bourne. Most 
 
  Kit and Rose were born in Essex, but the eldest son, George Frederick, was the first of the children born in Letchworth, in 1907, followed by Florence and, some time later, Albert.
 
+## Florence Bourne
+
+{% marginfigure 'fkr-40' 'assets/img/Florence King née Rodbard about 1940.jpg' 'Florence King née Rodbard about 1940.'  %}I was contacted by a cousin who sent me this photograph of her mother, Florence King, daughter of Florence Bourne, aged about 14. This would have been around 1940. You can see George Bourne's grocery van behind her in the photo. Florence Bourne in this account was Albert (and therefore my great-grandfather George Alfred)'s sister, and not the Florence in the above photograph. It's such a challenge in the Bourne family to work out who is who, because of their tradition of naming the first boy and girl after their parents. There a so many Georges and Rosinas in the Bourne family, it can be easy to get confused. Florence King (in the photo) was a refugee in the (second world) war, and stayed with Albert in Letchworth, when she got to know my mother, [Audrey](/family/Audrey).
 
 ## Notes
 
