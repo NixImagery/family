@@ -9,7 +9,8 @@ order: 1
 <ul class="content-listing ">
   <h2 class="content-listing-header">Family Tales</h2>
 <!-- This loops through the paginated posts -->
-  {% for post in paginator.posts %}      
+  {% for post in paginator.posts %}
+    {% unless post.hide %}
       <li class="listing">
         <hr class="slender">
         <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
@@ -20,6 +21,7 @@ order: 1
         </span><br/>
         <div>{% if post.thumb %}<img src="{{ site.baseurl  }}/assets/img/{{ post.thumb }} " height="100em" style="float:left;padding: 0 10px 0 0;" />{% endif %} {{ post.excerpt }}</div> 
       </li>
+    {% endunless %}
   {% endfor %}
 
 <!-- Pagination links -->
