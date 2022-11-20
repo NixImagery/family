@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-Without people, there's no family. I am fortunate enough to belong, albeit at a distance most of the time, to strong and diverse families that know much about themselves and the people that us -- family. 
+Without people, there's no family. I am fortunate enough to belong, albeit at a distance most of the time, to strong and diverse families that know much about themselves and the people that make us -- family. 
 
 Within these pages are stories about some of them. I have organised these, for now, into the two "sides" that are my mother's and father's families, separated as they are by the Atlantic Ocean and a whole lot of cultural difference. I inherited both cultures, part by nurture, part by nature, and they have manifested themselves at times over my entire life, evoking reactions from horror to applause from *my family*. 
 
