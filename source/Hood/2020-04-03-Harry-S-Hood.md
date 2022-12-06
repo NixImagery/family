@@ -4,6 +4,8 @@ title:  Harry S. Hood
 birth-date: 8th April 1903
 birth-place: West Virginia
 image: /family/img/Harry-thumb.jpg
+hide:
+  - tags
 tags:
   - Hood
   - Long

@@ -4,6 +4,8 @@ title:  Jacob Straight
 birth-date: 23rd June 1741
 birth-place: Richmond County, Staten Island
 image: /family/img/Jacob-thumb.jpg
+hide:
+  - tags
 tags:
   - Straight
   - Dragoo

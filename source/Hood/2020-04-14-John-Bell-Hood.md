@@ -4,6 +4,8 @@ title:  John Bell Hood
 birth-date: 29th June 1831
 birth-place: Owingsville, Kentucky
 image: /family/img/JohnBellHood-thumb.jpg
+hide:
+  - tags
 tags:
   - Hood
   - Kentucky

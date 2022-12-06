@@ -3,6 +3,9 @@ date: 20 November 2022
 title: The Bournes
 hide:
   - toc
+  - tags
+tags:
+  - Bourne
 ---
 
 The Bourne Family[^notename] trace their lineage back to John Bourne, born in 1594 and married in Burstem, Stafford on 17th April 1626, according to records at [FamilySearch](https://www.familysearch.org/tree/pedigree/landscape/M3MV-FRJ). His second eldest, another John, born in Droitwich, near Worcester in 1629, begat William, 1671, in Nottingham; who fathered another William (1700), now of Westminster. There are gaps in the list of William's children but there is a Thomas, born in 1628 in Westminster, and his son William (1751, Romford) who bring the line closer to credible recall. The documentary trail improves somewhat but there remains doubt when families procreate and spread. 

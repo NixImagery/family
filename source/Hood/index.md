@@ -3,6 +3,9 @@ date: 20 November 2022
 title: The Hoods
 hide:
   - toc
+  - tags
+tags:
+  - Hood
 ---
 
 My American heritage comes to me by my father, who served his country with the air force and now lives in Georgia. I haven't seen him in too long a time, nor much of the family that side of the Atlantic, but I feel close to them: cousins who look like me, and half siblings who sound like I do. If ever we get the opportunity again to share a table, we will not long feel so distant.

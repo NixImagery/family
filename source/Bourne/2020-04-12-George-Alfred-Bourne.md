@@ -4,6 +4,8 @@ title:  George Alfred Bourne
 birth-date: 13 August 1885
 birth-place: West Ham, Essex
 image: /family/img/GABourne-thumb.jpg
+hide:
+  - tags
 tags:
   - Bourne
   - Evans

@@ -4,6 +4,8 @@ title:  Audrey Bourne
 birth-date: 7th June 1930
 birth-place: Letchworth
 image: /family/img/Audrey-thumb.jpg
+hide:
+  - tags
 tags:
    - Bourne
    - Letchworth

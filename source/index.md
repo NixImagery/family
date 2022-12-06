@@ -3,6 +3,7 @@ date: 20 November 2022
 title: Tales of the family
 hide:
   - toc
+  - tags
 ---
 
 Without people, there's no family. I am fortunate enough to belong, albeit at a distance most of the time, to strong and diverse families that know much about themselves and the people that make us -- family. 
