@@ -265,15 +265,25 @@
 <p><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="/family/img/Harry HoodAF.jpg"><img alt="" src="/family/img/Harry HoodAF.jpg"/></a></p>
 <p>John's words echo the respect that everyone in the family held for Jack. In the 1980's, I had a chance to meet up with him and his son, Greg, in Seattle when I was working at Boeing Field. We ate Mexican, the taste for which must be a genetic trait in the Hood DNA.</p>
 <h2 id="family-tree">Family tree</h2>
+<!-- 
+From Linda Webb 7 Jan 23: "Just so you know, Mom (Eleanor Hood) was born in 1929, not 1930. Grandma Hood did die in 1954. She died a day after my brother Mark was born in March of 1954." 
+-->
 <p><pre class="mermaid"><code>flowchart TD
-    HSH(Harry S Hood = Mary Lucille Long)
-    HSH --&gt; EAH("Elizabeth (Betty) Ann Hood" &lt;br&gt;1928 d)
-    HSH --&gt; ELH(Eleanor L Hood &lt;br&gt;1930 d)
-    HSH --&gt; CHH("Charles H (Jack) Hood" = Virginia Elaine Northcut &lt;br&gt;1931 d2021 = 1935 d2015)
-    HSH --&gt; RNH(Richard Neal Hood &lt;br&gt;1936 - )
-    CHH --&gt; LuH(Luci Hood)
-    CHH --&gt; GH(Greg Hood)
-    CHH --&gt; LaH(Lauri Hood)</code></pre>
+  classDef female fill:#fcc
+  classDef gentie fill:#fff
+  %%
+  HSH(Harry S Hood&lt;br&gt;1903 -- 1989) --- HSHMLL["m. 1926"]:::gentie
+  MLL(Mary Lucille Long&lt;br&gt;1909 -- 1954):::female --- HSHMLL
+  HSHMLL --&gt; EAH("Elizabeth (Betty) Ann Hood" &lt;br&gt;1928 d):::female
+  HSHMLL --&gt; ELH(Eleanor L Hood &lt;br&gt;1929 -- d):::female 
+  HSHMLL --&gt; CHH("Charles H (Jack) Hood" &lt;br&gt;1931 -- 2021) 
+  %%
+  CHH --- CHHVEN[" "]:::gentie
+  VEN(Virginia Elaine Northcut &lt;br&gt;1935 -- 2015):::female --- CHHVEN
+  CHHVEN --&gt; Luci(Luci):::female
+  CHHVEN --&gt; Greg(Greg)
+  CHHVEN --&gt; Lauri(Lauri):::female
+  HSHMLL --&gt; Ric(Richard Neal Hood &lt;br&gt;1936 -- )</code></pre>
 Jack in relation to <a href="../2020-04-03-Harry-S-Hood/">Harry S Hood</a>.</p>
 <h2 id="notes">Notes</h2>
 <table>
@@ -316,7 +326,7 @@ Jack in relation to <a href="../2020-04-03-Harry-S-Hood/">Harry S Hood</a>.</p>
 <td align="left">Mary Lucille LONG</td>
 <td align="left">31 July 1909</td>
 <td align="left">Mason Co., VA.</td>
-<td align="left">1954?</td>
+<td align="left">1954</td>
 <td align="left">?</td>
 <td align="left">Mother</td>
 </tr>

@@ -212,6 +212,11 @@
   </a>
 </li>
 <li class="md-nav__item">
+<a class="md-nav__link" href="#family-tree">
+    Family tree
+  </a>
+</li>
+<li class="md-nav__item">
 <a class="md-nav__link" href="#notes">
     Notes
   </a>
@@ -264,10 +269,45 @@ Harry S. Hood, his son Charles, and two of Charles' daughters, Luci and Linda, i
 <h2 id="family">Family</h2>
 <p>Harry Straight Hood was born on 8th April 1903 in West Virginia and died in Dade County, Florida, at the age of 86. He was married to Mary Lucille Long and had four children: Elizabeth (Betty-Ann), Eleanor, Charles (Jack), and Richard (Ric). </p>
 <p>The family lived in Harrison County, West Virginia, where the 1930 census record shows that Harry worked as a motor mechanic. A decade later, the county census has Lucille as the head of household and the four children living with her. Her sister, Agnes Hood (sic.) living with the family in 1930, is also absent from the 1940 census record for the household.</p>
-<!-- His wife was killed in a fire that broke out in a Pan-Am aircraft - she had escaped, but returned to rescue her friend who was still inside the fuselage. Harry married again, Irma. -->
+<!-- His wife was killed in in 1954 a fire that broke out in a Pan-Am aircraft - she had escaped, but returned to rescue her friend who was still inside the fuselage. Harry married again, Irma. -->
 <p>Harry was at one time a Dade County councilman - I was told once that there was at one time a Harry S. Hood building in Hialeah, standing in his honour. </p>
 <h2 id="parents">Parents</h2>
 <p>Harry's parents were Harry Hood and Malinda Ann Straight.</p>
+<h2 id="family-tree">Family tree</h2>
+<pre class="mermaid"><code>flowchart TD
+  classDef female fill:#fcc
+  classDef gentie fill:#fff
+  %%
+  HH(Harry Hood &lt;br&gt;b.1873) --- HHMAS[m. 1897]:::gentie
+  MAS(Malinda Ann Straight &lt;br&gt;b.1876):::female --- HHMAS
+  HHMAS --- HSH(Harry S Hood&lt;br&gt;1903 -- 1989) --- HSHMLL["m. 1926"]:::gentie
+  %%
+  MLL(Mary Lucille Long&lt;br&gt;1909 -- 1954):::female --- HSHMLL
+  %%
+  HSHMLL --&gt; EAH("Elizabeth (Betty) Ann Hood" &lt;br&gt;1928 d):::female
+  %%
+%%  LW(Lyle Webb&lt;br&gt;d) --- ELHLW[" "]:::gentie
+  HSHMLL --&gt; ELH(Eleanor L Hood &lt;br&gt;1929 -- d):::female 
+%%  ELH --- ELHLW
+%%  ELHLW --&gt; Debbie[Debbie]:::female
+%%  ELHLW --&gt; Mark[Mark]
+%%  ELHLW --&gt; Linda[Linda]:::female
+  %%
+  HSHMLL --&gt; CHH("Charles H (Jack) Hood" &lt;br&gt;1931 -- 2021) 
+%%  CHH --- CHHVEN[" "]:::gentie
+%%  VEN(Virginia Elaine Northcut &lt;br&gt;1935 -- 2015):::female --- CHHVEN
+%%  CHHVEN --&gt; Luci(Luci):::female
+%%  CHHVEN --&gt; Greg(Greg)
+%%  CHHVEN --&gt; Lauri(Lauri):::female
+  %%
+  HSHMLL --&gt; Ric(Richard Neal Hood &lt;br&gt;1936 -- )
+%%  Audrey(Audrey Bourne&lt;br&gt;1930 -- 2019):::female --- RicAud
+%%  Ric --- RicAud[" "]:::gentie
+%%  RicAud --- Nick[Nick]
+%%  Ric --- RicMar[" "]:::gentie
+%%  Marion(Marion&lt;br&gt;d.):::female --- RicMar
+%%  RicMar --- Richie(Richie)
+%%  RicMar --- Kathie(Kathie)</code></pre>
 <h2 id="notes">Notes</h2>
 <table>
 <thead>
@@ -293,7 +333,7 @@ Harry S. Hood, his son Charles, and two of Charles' daughters, Luci and Linda, i
 <td align="left">Mary Lucille LONG</td>
 <td align="left">31 July 1909</td>
 <td align="left">Mason Co., VA.</td>
-<td align="left">1954?</td>
+<td align="left">1954</td>
 <td align="left">?</td>
 <td align="left">Married 10 Aug 1926.</td>
 </tr>
