@@ -21,9 +21,9 @@ Harry Straight Hood was born on 8th April 1903 in West Virginia. He was the last
 ## Family
 Harry Straight Hood was born on 8th April 1903 in West Virginia and died in Dade County, Florida, at the age of 86. He was married to Mary Lucille Long and had four children: Elizabeth (Betty-Ann), Eleanor, Charles (Jack), and Richard (Ric). 
 
-The family lived in Harrison County, West Virginia, where the 1930 census record shows that Harry worked as a motor mechanic. A decade later, the county census has Lucille as the head of household and the four children living with her. Her sister, Agnes Hood (sic.) living with the family in 1930, is also absent from the 1940 census record for the household.
+The family lived in Harrison County, West Virginia, where the 1930 census record shows that Harry worked as a motor mechanic. A decade later, the county census has Lucille as the head of household and the four children living with her. His sister, Agnes Hood living with the family in 1930, is also absent from the 1940 census record for the household.
 
-<!-- His wife was killed in in 1954 a fire that broke out in a Pan-Am aircraft - she had escaped, but returned to rescue her friend who was still inside the fuselage. Harry married again, Irma. -->
+Harry's wife was killed in in 1954 a fire that broke out in a Pan-Am aircraft, according to the story I heard growing up, in a paint shop. She had escaped, but returned to rescue her friend who was still inside the fuselage. Harry married again later, to Irma. I met them both in Miami in the early 1980s, on a business trip to Tampa.
 
 Harry was at one time a Dade County councilman - I was told once that there was at one time a Harry S. Hood building in Hialeah, standing in his honour. 
 
@@ -39,10 +39,15 @@ flowchart TD
   %%
   HH(Harry Hood <br>b.1873) --- HHMAS[m. 1897]:::gentie
   MAS(Malinda Ann Straight <br>b.1876):::female --- HHMAS
+  HHMAS --- LPH(Lou Pearl Hood<br>1898 -- 1945):::female
+  HHMAS --- EHH(Edna Helen Hood<br>1899 -- d.):::female
+  HHMAS --- APH(Alfred Paul Hood<br>1901 -- d.)
   HHMAS --- HSH(Harry S Hood<br>1903 -- 1989) --- HSHMLL["m. 1926"]:::gentie
   %%
   MLL(Mary Lucille Long<br>1909 -- 1954):::female --- HSHMLL
   %%
+  HHMAS --- MEH(Mary Ellen Hood<br>1906 -- 1995):::female
+  HHMAS --- ACH(Agnes C Hood<br>1914 -- d.):::female
   HSHMLL --> EAH("Elizabeth (Betty) Ann Hood" <br>1928 d):::female
   %%
 %%  LW(Lyle Webb<br>d) --- ELHLW[" "]:::gentie
@@ -68,6 +73,8 @@ flowchart TD
 %%  RicMar --- Richie(Richie)
 %%  RicMar --- Kathie(Kathie)
 ```
+Not shown in this family tree are Harry's second wife, Irma, and two of his younger siblings: an unnamed boy born in 1910, and Cora Malinda born and died in 1911.
+
 
 ## Notes
 
