@@ -23,7 +23,7 @@ Harry Straight Hood was born on 8th April 1903 in West Virginia and died in Dade
 
 The family lived in Harrison County, West Virginia, where the 1930 census record shows that Harry worked as a motor mechanic. A decade later, the county census has Lucille as the head of household and the four children living with her. His sister, Agnes Hood living with the family in 1930, is also absent from the 1940 census record for the household.
 
-Harry's wife was killed in in 1954 a fire that broke out in a Pan-Am aircraft, according to the story I heard growing up, in a paint shop. She had escaped, but returned to rescue her friend who was still inside the fuselage. Harry married again later, to Irma. I met them both in Miami in the early 1980s, on a business trip to Tampa.
+Harry's wife was killed in 1954 in a fire that broke out in a Pan-Am aircraft, according to the story I heard growing up, in a paint shop. She had escaped, but returned to rescue her friend who was still inside the fuselage. Harry married again later, to Irma. I met them both in Miami in the early 1980s, on a business trip to Tampa.
 
 Harry was at one time a Dade County councilman - I was told once that there was at one time a Harry S. Hood building in Hialeah, standing in his honour. 
 
