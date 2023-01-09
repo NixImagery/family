@@ -37,6 +37,20 @@ In the family, I knew of the daughters as (Auntie) "Kit", "Florrie" and "Rose", 
 
 Kit and Rose were born in Essex, but the eldest son, my grandfather George Frederick, was the first of the children born in Letchworth, in 1907, followed by Florence and, some time later, Albert.
 
+``` mermaid
+flowchart TD
+classDef female fill:#fcc
+classDef gentie fill:#fff
+%%
+GAB(George Alfred Bourne<br>1885 -- 1954) --- GABCEE["m. 1904"]:::gentie
+CEE(Catherine Emma Evans<br>1884 -- 1940):::female --- GABCEE
+GABCEE --> Kit(Catherine <br>1905 d):::female
+GABCEE --> Rose(Rosina<br>1906 -- d):::female 
+GABCEE --> George(George Frederick<br>1907 -- 1970) 
+GABCEE --> Bunny(Florence <br>1909 -- 1985):::female
+GABCEE --> Albert(Albert <br>1923 -- 1997) 
+```
+
 ### Catherine
 
 !!! info inline ""
