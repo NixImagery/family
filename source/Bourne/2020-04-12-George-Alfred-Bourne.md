@@ -42,6 +42,9 @@ flowchart TD
 classDef female fill:#fcc
 classDef gentie fill:#fff
 %%
+GB(George Bourne<br>1860 -- 1909) --- GBREC["m. 1885"]:::gentie
+REC(Rosina Elizabeth Chapman<br>1865 -- 1948):::female --- GBREC
+GBREC --- GAB
 GAB(George Alfred Bourne<br>1885 -- 1954) --- GABCEE["m. 1904"]:::gentie
 CEE(Catherine Emma Evans<br>1884 -- 1940):::female --- GABCEE
 GABCEE --> Kit(Catherine <br>1905 d):::female
@@ -49,6 +52,11 @@ GABCEE --> Rose(Rosina<br>1906 -- d):::female
 GABCEE --> George(George Frederick<br>1907 -- 1970) 
 GABCEE --> Bunny(Florence <br>1909 -- 1985):::female
 GABCEE --> Albert(Albert <br>1923 -- 1997) 
+GBREC --- EB(Edward<br>1887 -- d.)
+GBREC --- CHB(Charles Henry<br>1887 -- 1961)
+GBREC --- AVB(Albert Victor<br>1891 -- 1953)
+GBREC --- RAB(Rosina Alice<br>1893 -- 1962):::female
+GBREC --- FAB(Florence Annie<br>1895 -- d.):::female
 ```
 
 ### Catherine
@@ -67,7 +75,7 @@ My grandfather is in the back row of the wedding photo with a cigarette. Everybo
     ![](/family/img/Rose-Percy-Wedding-Letchworth.jpg)
     Rose and Percy's wedding, Letchworth, I think, in 1926, before Kate and Jack. 
     
-Rose was the third named thus in the family group, after her mother and aunt. She married Percy Radford and (I think) lived in Barkway. Their daughter Jean married Clifford Arnold and their daughter is my cousin Jacky Joiner (née Arnold).
+Rose was the third named thus in the family group, after her grandmother and aunt. She married Percy Radford and (I think) lived in Barkway. Their daughter Jean married Clifford Arnold and their daughter is my cousin Jacky Joiner (née Arnold).
 
 My grandfather, again in the back row, looking a little younger. George Alfred Bourne is again standing behind the bride.
 
