@@ -27,11 +27,12 @@ The family stories tell how George walked from the East End of London - Stratfor
 The Bourne family were entrepreneurial and soon established businesses including produce, grocery, transport and hospitality. George was responsible for a huge amount of the building which took place in Letchworth and his claim to fame was a very beautiful plastered ceiling in an iconic building in the town (the Spirella Building) for which  he was responsible.
 
 ## Marriage and family
-!!! info inline end ""
-    ![](/family/img/George-Bourne-daughters.jpg)
-    George Bourne's daughters. Catherine, Florence and Rosina. 
 
 George was the eldest of 6 children of George and Rosina (née Chapman) Bourne. Most of these stayed in London; his sister, also Rosina, emigrated to Canada. George married Catherine Evans in 1904. They had three daughters and two sons.
+
+!!! info inline  ""
+    ![](/family/img/George-Bourne-daughters.jpg)
+    George Bourne's daughters. Catherine, Florence and Rosina. 
     
 In the family, I knew of the daughters as (Auntie) "Kit", "Florrie" and "Rose", but only remember Auntie Kit and Auntie Florrie. These two married (Jack Mason and Bert Downs, respectively) and settled in Letchworth.
 
@@ -81,13 +82,10 @@ My grandfather, again in the back row, looking a little younger. George Alfred B
 
 
 ### G. F. Bourne
+
+George Frederick Bourne was my grandfather. He married [Norah Brennan](2020-03-12-Norah-Brennan.md) and lived in Bedford Road, opposite to my old junior school. He loved to drive; his car of choice in his later life was a Triumph Herald. He was crippled by something like Parkinson's disease that eventually bound him to his bed on the ground floor of their home.
+
 !!! info inline  ""
-    ![](/family/img/George-Norah.gif)
-    My grandparents, George Frederick and Norah Bourne 
-
-George Frederick Bourne was my grandfather. He married Norah Brennan and lived in Bedford Road, opposite to my old junior school. He loved to drive; his car of choice in his later life was a Triumph Herald. He was crippled by something like Parkinson's disease that eventually bound him to his bed on the ground floor of their home.
-
-!!! info inline end ""
     ![](/family/img/FlorenceBertDownsWeddingClipping.jpg)
     Bert and Florrie's wedding in the local paper. It was Rosina's husband who gave her away.
 
