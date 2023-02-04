@@ -21,7 +21,7 @@ Norah's mother was from Lowestoft in Suffolk, where William and Sarah lived for 
 
 Norah remained in England, finding her way to Letchworth where she met and married George Frederick Bourne in 1929. They had two children, [Audrey](2020-03-29-Audrey-Bourne.md) and Michael. Audrey was my mother and I have happy memories of growing up in Letchworth and spending a lot of time with my grandparents, George and Norah. I stayed with them for a while when [mum was paralyzed](2020-03-29-Audrey-Bourne.md#health). "Nanna Bourne" was much loved by me and my cousins. She would have us all round the table on Sunday for a roast and 1966 was especially memorable because she took us all to the Costa Brava for a week. Nanna was quite fond of a beverage and on that holiday I remember she kept herself cool with Bacardi and Coke. There were many more memories of that trip, not least my mother's encounter with the Spanish police, the football World Cup and plenty of banter with the Germans who were in a nearby *pension*. We went again the following year but not after, as my cousins and I moved up to our big schools and beyond.
 
-George died of a blood clot one stormy December night in 1970, having battled progressive paralysis of his legs for a few years. He sobbed, the day he realised he could no longer drive, having driven his entire life, through the *Blitzkrieg* to keep supply lines open, through nationalisation of his fleet of lorries. Norah succumbed to what I think was cervical cancer almost ten years later.
+George died of a blood clot one stormy December night in 1970, having battled progressive paralysis of his legs for a few years. Norah succumbed to what I think was cervical cancer almost ten years later.
 
 ## Notes
 
