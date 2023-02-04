@@ -53,7 +53,7 @@ flowchart TD
   CHHVEN --> Lauri(Lauri):::female
   HSHMLL --> Ric(Richard Neal Hood <br>1936 -- )
 ```
-Jack in relation to [Harry S Hood](../Hood/2020-04-03-Harry-S-Hood.md).
+Jack in relation to [Harry S Hood](1903-04-08-Harry-S-Hood.md).
 
 ## Notes
 

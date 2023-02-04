@@ -19,7 +19,7 @@ tags:
 Harry Straight Hood was born on 8th April 1903 in West Virginia. He was the last in the family to follow the tradition of bearing his mother's surname (Straight) as his middle name.
 
 ## Family
-Harry Straight Hood was born on 8th April 1903 in West Virginia and died in Dade County, Florida, at the age of 86. He was married to Mary Lucille Long and had four children: Elizabeth (Betty-Ann), Eleanor, [Charles (Jack)](2022-01-07-Jack-Hood.md), and Richard (Ric). 
+Harry Straight Hood was born on 8th April 1903 in West Virginia and died in Dade County, Florida, at the age of 86. He was married to Mary Lucille Long and had four children: Elizabeth (Betty-Ann), Eleanor, [Charles (Jack)](1931-Jack-Hood.md), and Richard (Ric). 
 
 The family lived in Harrison County, West Virginia, where the 1930 census record shows that Harry worked as a motor mechanic. A decade later, the county census has Lucille as the head of household and the four children living with her. His sister, Agnes Hood living with the family in 1930, is also absent from the 1940 census record for the household.
 

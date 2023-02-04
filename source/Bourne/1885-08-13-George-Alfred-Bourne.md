@@ -83,7 +83,7 @@ My grandfather, again in the back row, looking a little younger. George Alfred B
 
 ### G. F. Bourne
 
-George Frederick Bourne was my grandfather. He married [Norah Brennan](2020-03-12-Norah-Brennan.md) and lived in Bedford Road, opposite to my old junior school. He loved to drive; his car of choice in his later life was a Triumph Herald. He was crippled by something like Parkinson's disease that eventually bound him to his bed on the ground floor of their home.
+George Frederick Bourne was my grandfather. He married [Norah Brennan](1903-06-13-Norah-Brennan.md) and lived in Bedford Road, opposite to my old junior school. He loved to drive; his car of choice in his later life was a Triumph Herald. He was crippled by something like Parkinson's disease that eventually bound him to his bed on the ground floor of their home.
 
 !!! info inline  ""
     ![](/family/img/FlorenceBertDownsWeddingClipping.jpg)
@@ -114,7 +114,7 @@ I was contacted by a cousin who sent me this photograph of her mother, Florence 
     ![](/family/img/FlorenceAnnie-GFB.png)
     Florence Annie Rodbard née Bourne
  
-It's such a challenge in the Bourne family to work out who is who, because of their tradition of naming the first boy and girl after their parents. There are so many Georges and Rosinas in the Bourne family, it can be easy to get confused. Florence King (in the photo) was a refugee in the (second world) war, and stayed with Albert in Letchworth, when she got to know my mother, [Audrey](/family/People/2020-03-29-Audrey-Bourne/).
+It's such a challenge in the Bourne family to work out who is who, because of their tradition of naming the first boy and girl after their parents. There are so many Georges and Rosinas in the Bourne family, it can be easy to get confused. Florence King (in the photo) was a refugee in the (second world) war, and stayed with Albert in Letchworth, when she got to know my mother, [Audrey](1930-06-07-Audrey-Bourne.md).
 
 ## Notes
 
