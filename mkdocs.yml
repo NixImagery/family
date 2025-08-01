@@ -7,7 +7,7 @@ site_dir: docs
 repo_url: https://github.com/NixImagery
 repo_name: family
 edit_uri: ""
-copyright: Copyright &copy; 1976 - 2022 Nick Hood
+copyright: Copyright &copy; 1976 - 2025 Nick Hood
 
 theme:
   name: material
@@ -74,4 +74,4 @@ extra:
 
   analytics:
     provider: google
-    property: G-HRRCR9KGPW
+    property: G-SBDYJL4PWN
