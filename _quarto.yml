@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: docs
+
+date: last-modified
+date-modified: last-modified
+date-format: "Do MMMM YYYY"  
+# number-sections: false
+# page-layout: full
+# bibliography: ../Thesis/thesis.bib
+# csl: ../Thesis/chicago-author-date-no-em-dash.csl
+# citation-location: document
+
+website:
+  title: Tales of the Family
+  description: Bourne's rebels and other stories
+  site-url: https://niximagery.github.io/family/
+  open-graph: true
+  page-navigation: true
+  search: true
+  favicon: anarchy.gif
+  navbar:
+    logo: anarchy.gif
+    background: "#466aa8"
+    search: true
+  sidebar:
+    contents: auto
+      # - text: Home
+      #   icon: house
+      #   href: index.qmd
+      # - icon: people-fill
+      #   href: Professional/2025-idl-network.qmd
+
+    # logo: /images/_DSF0645.jpg
+    # style: docked
+    # collapse-level: 2
+  page-footer: 
+    left: "Copyright 1976 - 2026, Nick Hood." 
+    background: light
+    right: 
+      - icon: github
+        href: https://github.com/NixImagery
+        target: _blank
+
+format:
+  html:
+    include-in-header: 
+      text: |
+        <!-- Privacy-friendly analytics by Plausible -->
+        <script async src="https://stats.sptr.net/js/pa-Ysqpinv0Bh8jFdBY-o2OF.js"></script>
+        <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+        </script>
+    mainfont: Georgia, Roboto, Open Sans
+    sansfont: Optima, Helvetica Neue, Helvetica, Arial, Source Sans Pro
+    monofont: Menlo, Consolas, Courier Prime, Courier New, Courier
+    fontsize: 12pt
+    # page-layout: full
+    fig-cap-location: bottom
+    citation-location: document
+    lightbox: true
+    mermaid: 
+      theme: default
+    toc: false
+    toc-depth: 2
+    toc-expand: true
+    toc-title: On this page
